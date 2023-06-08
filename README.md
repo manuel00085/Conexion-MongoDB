@@ -1,6 +1,7 @@
 # Conexion-MongoDB
 
-Crear base de datos
+  --Crear base de datos--
+
 
 1- Crear cuenta en https://www.mongodb.com/
 
@@ -11,7 +12,8 @@ Crear base de datos
 4- Copiar Codigo para enlazar con mongodb (Se utiliza mas adelante)
 
 
---Conexion a MongoDb--
+  --Conexion a MongoDb--
+
 
 1- Abrimos Visual Studio Code
 
